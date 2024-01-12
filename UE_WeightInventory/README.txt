@@ -1,0 +1,1 @@
+Simple inventory with custom categories including weight indicator and loading. Add debug items with weight.

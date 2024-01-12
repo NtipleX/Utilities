@@ -1,0 +1,1 @@
+Vulkan project aimed to demonstrate different fun abilities and get familiar with vulkan api
